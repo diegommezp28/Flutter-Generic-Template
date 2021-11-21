@@ -21,8 +21,10 @@ This is a general purpose template for Flutter.
     - [ ] Redux
   - [ ] Simpler State Managements (can have a small scope, might be able to implement various types as examples):
     - [ ] BLoC
+    - [ ] Provider
+    - [ ] Riverpod
     - [ ] Custom MVVM with ChangeNotifier
-    - [ ] InheritedWidget
+    - [ ] InheritedWidget 
 - [ ] Routing
 - [ ] Services/Singletons (get_it package):
   - [ ] Navigation Service
