@@ -15,12 +15,16 @@ This is a general purpose template for Flutter.
 - [ ] SplashScreen
 - [ ] Login (Firebase)
 - [ ] State Management Solutions. Which one?
-  - [ ] BLoc
-  - [ ] GetX
-  - [ ] Stacked
-  - [ ] Custom MVVM with Provider
+  - [ ] Entire Framworks. (Choose ONE AT MOST)
+    - [ ] GetX
+    - [ ] Stacked (MVVM Provider + Get_it Architecture)
+    - [ ] Redux
+  - [ ] Simpler State Managements (can have a small scope, might be able to implement various types as examples):
+    - [ ] BLoC
+    - [ ] Custom MVVM with ChangeNotifier
+    - [ ] InheritedWidget
 - [ ] Routing
-- [ ] Services/Singletons:
+- [ ] Services/Singletons (get_it package):
   - [ ] Navigation Service
   - [ ] Hive/Local Storage Service
   - [ ] Connectivity Service
