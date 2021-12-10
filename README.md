@@ -30,6 +30,7 @@ This is a general purpose template for Flutter.
   - [ ] Navigation Service
   - [ ] Hive/Local Storage Service
   - [ ] Connectivity Service
+  - [ ] Notifications Service
   - [ ] Theming Service?
   - [ ] Dialog Service?
 - [ ] Native Functionalities:
@@ -63,12 +64,15 @@ This is a general purpose template for Flutter.
   - [ ] Pagination
   - [ ] Forms
   - [ ] Tables
+  - [ ] Search Bar
+  - [ ] Chat
 - [ ] Layout:
   - [ ] Custom Appbar
   - [ ] Custom Sidebar
 - [ ] Logs. (Flutter_Logs)
 - [ ] Native Bindings:
   - [ ] WidgetsBindingObserver.
+  - [ ] PostFrameCallBacks
 - [ ] Internazionalization
 - [ ] Unit Testing
 - [ ] In App payments
