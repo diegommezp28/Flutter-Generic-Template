@@ -6,7 +6,7 @@
 
 
 # Flutter-Generic-Template
-This is a general purpose template for Flutter.
+This is a general purpose template/Tutorial for Flutter.
 
 ***
 
@@ -66,6 +66,8 @@ This is a general purpose template for Flutter.
   - [ ] Tables
   - [ ] Search Bar
   - [ ] Chat
+- [ ] Techniques:
+  - [ ] Extending a Widget
 - [ ] Layout:
   - [ ] Custom Appbar
   - [ ] Custom Sidebar
